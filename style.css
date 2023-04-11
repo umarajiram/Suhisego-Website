@@ -1,0 +1,40 @@
+h6 {
+  background-color: #4a763b;
+  color: white;
+}
+
+h6:hover {
+  background-color: #234f19;
+  color: white;
+}
+
+.container-sm {
+  height: 800px;
+}
+
+.rounded-pill {
+  height: 60px;
+  width: 400px;
+}
+.col {
+  margin-top: 200px;
+}
+
+.container-fluid {
+  background-color: #eae9ec;
+}
+
+img {
+  width: 150px;
+}
+.rounded-circle {
+  width: 10px;
+  border: 3px solid #bab9bc;
+  padding: 20px;
+  margin: 40px;
+  height: 100px;
+}
+
+.rounded-circle:hover {
+  border: 3px solid #6e6d70;
+}
